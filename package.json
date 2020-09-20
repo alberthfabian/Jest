@@ -1,0 +1,28 @@
+{
+  "name": "jsbase",
+  "version": "1.0.0",
+  "description": "Pruebas unitarias con Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alberthfabian/Jest.git"
+  },
+  "keywords": [
+    "Jest",
+    "test",
+    "unit"
+  ],
+  "author": "Alberth Perez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alberthfabian/Jest/issues"
+  },
+  "homepage": "https://github.com/alberthfabian/Jest#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
